@@ -1,0 +1,84 @@
+ 
+Chapter 1  | Overview and key findings 29
+ Chapter 1 
+Overview and key findings 
+Global energy crisis: causes and implications 
+ The global energy crisis sparked by Russia’s invasion of Ukraine is having far‐reaching 
+implications  for households,  businesses  and entire  economies,  prompting  short‐term 
+responses  from governments  as well  as a deeper debate about the ways to reduce 
+the risk of future disruptions  and promote energy security.  This is a global crisis, but 
+Europe is the main theatre  in which it is playing out, and natural gas is centre stage – 
+especially  during  the coming northern  hemisphere  winter. 
+ High energy prices are causing a huge transfer of wealth from  consumers  to 
+producers,  back  to the levels seen in 2014 for oil, but entirely unprecedented  for 
+natural gas.  High fuel  prices  account for 90% of the rise in the average costs of 
+electricity  generation  worldwide,  natural gas alone for more than 50%. The costs of 
+renewables  and  carbon dioxide have played only a marginal role, underscoring  that 
+this is a crisis where energy transitions  are the solution, rather than the problem.  
+ Price and  economic  pressures  mean that the number  of people without access to 
+modern  energy is rising for the first time in a decade.  Around 75 million people who 
+recently gained access to electricity  are likely to lose the ability to pay for it, and 
+100 million people may revert to the use of traditional  biomass for cooking.  
+ There remain huge uncertainties  over how this energy crisis will evolve and  for how 
+long  fossil fuel  prices will remain elevated,  and  the risks  of further energy disruption  
+and geopolitical  fragmentation  are high. In all our scenarios,  price pressures  and a dim 
+near‐term outlook for the global economy  feed through into  lower  energy demand 
+than in last year’s Outlook .  
+ The crisis provides a short‐term boost to demand for oil and  coal as consumers  
+scramble  for alternatives  to high priced gas.  But the lasting gains from  the crisis accrue 
+to low‐emissions  sources, mainly renewables,  but also nuclear in some cases, 
+alongside  faster progress  with efficiency  and electrification,  e.g. electric vehicles.  
+ In the Stated Policies Scenario (STEPS), global energy demand  growth of around  1% 
+per year to 2030 is met in aggregate  almost  entirely by renewables.  Emerging  market 
+and developing  economies,  such  as India, see increases  across  a broader range of fuels 
+and  technologies,  while the only sources to show growth in advanced  economies  to 
+2030 are low‐emissions.  
+ The cost advantages  of mature clean energy technologies  and the prospects  for new 
+ones, such as low‐emissions  hydrogen,  are boosted by the Inflation Reduction  Act in 
+the United States, Europe’s increased  push  for clean energy, and  other major  new 
+policies. The result is to turbo‐charge the emerging  global  clean  energy economy.  
+ The STEPS in this Outlook is the first World Energy Outlook (WEO) scenario  based on 
+prevailing  policy settings that sees a definitive  peak in global demand  for fossil fuels. SUMMARY  
+IEA. CC BY 4.0. 
+30 International Energy Agency  | World Energy Outlook 2022
+ Coal demand peaks in the next few years, natural gas demand reaches a plateau by 
+the end of the decade, and oil demand reaches a high point in the mid‐2030s before 
+falling slightly. From 80% today – a level that has been constant for decades – the 
+share of fossil fuels in the global energy mix falls to less than 75% by 2030 and to just 
+above 60% by mid‐century. In the Announced  Pledges Scenario (APS), the drive to 
+meet climate pledges in full sends demand for all the fossil fuels into decline by 2030. 
+ With the loss of its largest export market in Europe, Russia faces the prospect of a 
+much‐diminished  role in international  energy affairs. 2021 proves to be a high‐water 
+mark for Russian export flows. Its share of internationally  traded gas, which stood at 
+30% in 2021, falls to 15% by 2030 in the STEPS and to 10% in the APS. Importers  in 
+China have been actively contracting  for liquefied natural gas, and there is no room in 
+China’s projected  gas balance for another large‐scale pipeline from Russia. 
+ Energy‐related CO 2 emissions  rebounded  to 36.6 Gt in 2021, the largest ever annual 
+rise in emissions.  In the STEPS, they reach a plateau around 37 Gt before falling slowly 
+to 32 Gt in 2050, a trajectory  that would lead to a 2.5 °C rise in global average 
+temperatures  by 2100. This is around 1 °C lower than implied by the baseline 
+trajectory  prior to the Paris Agreement,  indicating  the progress that has been made 
+since then. But much more needs to be done. In the APS, emissions  peak in the 
+mid‐2020s and fall to 12 Gt in 2050, resulting in a projected  global median 
+temperature  rise in 2100 of 1.7 °C. In the Net Zero Emissions  by 2050 (NZE) Scenario,  
+CO 2 emissions  fall to 23 Gt in 2030 and to zero in 2050, a trajectory  consistent  with 
+limiting the temperature  increase to less than 1.5 °C in 2100. 
+ Planned increases  in global clean energy manufacturing  capacity provide a leading 
+indicator of the potential  for rapid increases  in deployment.  In the case of heat 
+pumps, current and planned manufacturing  capacity is below the deployment  levels 
+projected  in the APS. But announced  global manufacturing  capacity for electrolysers  
+and solar PV modules in 2030 is sufficient  not only to reach APS deployment  levels 
+but to go beyond them. 
+ One point common to each scenario is the rising share of electricity  in global final 
+energy consumption.  From 20% today, this increases  in each scenario,  reaching more 
+than 50% by mid‐century in the NZE Scenario.  This is associated  with a huge overall 
+increase in global electricity  demand – with the bulk of this growth coming from 
+emerging  market and developing  economies  – and the need for constant vigilance 
+from policy makers to a range of risks to electricity  security, in particular  the ever 
+increasing  need for flexible operation  of power systems. 
+ The world has not been investing enough in energy in recent years, a fact that left the 
+energy system much more vulnerable  to the sort of shocks seen in 2022. A smooth 
+and secure energy transition  will require a major uptick in clean energy investment  
+flows. Getting on track for the NZE Scenario will require a tripling in spending  on clean 
+energy and infrastructure  to 2030, alongside  a shift towards much higher investment  
+in emerging  market and developing  economies.  
